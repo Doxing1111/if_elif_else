@@ -1,3 +1,5 @@
+# BMI 計算公式: BMI = 體重(公斤) / 身高2(公尺2)
+
 height = input('請輸入身高(cm)： ')
 weight = input('請輸入體重(kg)： ')
 height = int(height)
